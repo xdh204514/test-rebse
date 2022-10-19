@@ -28,5 +28,6 @@ public class Test {
 
     public void testFiveCommit() {
         System.out.println("testFiveCommit");
+        System.out.println("老功能完善");
     }
 }
