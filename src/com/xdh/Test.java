@@ -21,4 +21,15 @@ public class Test {
     public void testThirdCommit() {
         System.out.println("testThirdCommit");
     }
+<<<<<<< HEAD
+=======
+
+    public void testFourCommit() {
+        System.out.println("testFourCommit");
+    }
+
+    public void testFiveCommit() {
+        System.out.println("testFiveCommit");
+    }
+>>>>>>> 7271710... 5
 }
