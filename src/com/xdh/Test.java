@@ -20,6 +20,7 @@ public class Test {
 
     public void testThirdCommit() {
         System.out.println("testThirdCommit");
+        System.out.println("老功能完善3.3");
     }
 
     public void testFourCommit() {
@@ -29,5 +30,9 @@ public class Test {
     public void testFiveCommit() {
         System.out.println("testFiveCommit");
         System.out.println("老功能完善");
+
+        System.out.println("老功能完善3.1");
+
+        System.out.println("老功能完善3.2");
     }
 }
