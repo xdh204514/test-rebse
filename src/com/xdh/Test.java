@@ -13,4 +13,12 @@ public class Test {
     public void testFirstCommit() {
         System.out.println("testFirstCommit");
     }
+
+    public void testSecondCommit() {
+        System.out.println("testSecondCommit");
+    }
+
+    public void testThirdCommit() {
+        System.out.println("testThirdCommit");
+    }
 }
